@@ -7,14 +7,6 @@
     providing a clean and minimal user experience.
   </p>
 
-  <h2>Features</h2>
-  <ul>
-    <li><strong>Camera Layout:</strong> A visually appealing camera interface built purely with HTML and CSS.</li>
-    <li><strong>Viewfinder:</strong> Displays a simulated camera view.</li>
-    <li><strong>Buttons:</strong> Includes buttons for capturing photos, zooming, and switching between front and rear cameras.</li>
-    <li><strong>Responsive Design:</strong> Ensures the camera layout adapts well to different screen sizes.</li>
-  </ul>
-
   <h2>Technologies Used</h2>
   <ul>
     <li><strong>HTML5:</strong> For structuring the camera interface.</li>
