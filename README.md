@@ -1,1 +1,1 @@
-[click me!❤ (https://tasniema.github.io/camera/)]
+[click me!❤](https://tasniema.github.io/camera/)
